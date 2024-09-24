@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/jsonschema"
+	"github.com/alexsacr/go-openai/jsonschema"
 )
 
 func main() {
